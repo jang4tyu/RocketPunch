@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: a8f3c9419d8b0d744ae5414dbc7dca44
+timeCreated: 1427961389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Pannel
+    100002: bar
+    100004: bar_0
+    100006: bar_0_2
+    100008: bar_1
+    100010: bar_1_2
+    100012: bar_2
+    100014: bar_2_2
+    100016: Body
+    100018: Bottom
+    100020: Bottom_2
+    100022: cylen
+    100024: cylen_2
+    100026: cylen_3
+    100028: cylen_4
+    100030: cylen_5
+    100032: cylender
+    100034: Dial
+    100036: Door
+    100038: Door_Hub
+    100040: Door_Hub_01
+    100042: Door_Hub_01_2
+    100044: Door_Hub_01_3
+    100046: Door_Hub_01_4
+    100048: Door_Hub_ins
+    100050: frec
+    100052: Gear
+    100054: Gear_01
+    100056: Gear_01_2
+    100058: Gear_2
+    100060: Gear_Base
+    100062: Gear_D_01
+    100064: Gear_D_01_2
+    100066: Gear_ins
+    100068: Gear_Part
+    100070: Gold_Bar
+    100072: Gold_Piece
+    100074: handle
+    100076: handle_0
+    100078: handle_1
+    100080: handle_2
+    100082: handle_3
+    100084: handle_4
+    100086: handle_5
+    100088: Handle_part
+    100090: Hub
+    100092: hub
+    100094: Hub_2
+    100096: hub_2
+    100098: Hub_3
+    100100: Hub_ins
+    100102: inner
+    100104: inner_handle
+    100106: inner_handle_0
+    100108: inner_handle_1
+    100110: inner_handle_2
+    100112: Lock
+    100114: Lock_2
+    100116: Lock_3
+    100118: Lock_Body
+    100120: Lock_Body_2
+    100122: Lock_Hub
+    100124: Lock_hub
+    100126: Lock_hub_0
+    100128: Lock_hub_1
+    100130: Lock_Hub_2
+    100132: Lock_hub_2
+    100134: Lock_Hub_3
+    100136: Main_Body
+    100138: MainBody
+    100140: MainBody_2
+    100142: minus
+    100144: minus_2
+    100146: Nut
+    100148: Nut_0
+    100150: Nut_1
+    100152: Nut_10
+    100154: Nut_11
+    100156: Nut_12
+    100158: Nut_13
+    100160: Nut_14
+    100162: Nut_15
+    100164: Nut_2
+    100166: Nut_3
+    100168: Nut_4
+    100170: Nut_5
+    100172: Nut_6
+    100174: Nut_7
+    100176: Nut_8
+    100178: Nut_9
+    100180: Nut_Clon
+    100182: Nut_guide
+    100184: Pasad
+    100186: rec_spl
+    100188: Rendom
+    100190: //RootNode
+    100192: Safe_Prop
+    100194: Safe_Prop_2
+    100196: Stone
+    100198: stone
+    100200: Stone_1
+    100202: Stone_10
+    100204: Stone_11
+    100206: Stone_12
+    100208: Stone_13
+    100210: Stone_14
+    100212: Stone_15
+    100214: Stone_16
+    100216: Stone_17
+    100218: Stone_18
+    100220: Stone_19
+    100222: Stone_2
+    100224: Stone_20
+    100226: Stone_21
+    100228: Stone_2_2
+    100230: Stone_3
+    100232: Stone_4
+    100234: Stone_5
+    100236: Stone_6
+    100238: Stone_7
+    100240: Stone_8
+    100242: Stone_9
+    100244: "stone_\uC778\uC2A4\uD134\uC2A4"
+    100246: "stone_\uC778\uC2A4\uD134\uC2A4_1"
+    100248: "stone_\uC778\uC2A4\uD134\uC2A4_2"
+    100250: "stone_\uC778\uC2A4\uD134\uC2A4_3"
+    100252: "stone_\uC778\uC2A4\uD134\uC2A4_4"
+    100254: "stone_\uC778\uC2A4\uD134\uC2A4_5"
+    100256: "stone_\uC778\uC2A4\uD134\uC2A4_6"
+    100258: "stone_\uC778\uC2A4\uD134\uC2A4_7"
+    100260: "stone_\uC778\uC2A4\uD134\uC2A4_8"
+    100262: Tube
+    100264: tube
+    100266: "\uB77C\uC6B4\uB529"
+    100268: "\uB77C\uC6B4\uB529_2"
+    100270: "\uC6D0\uAE30\uB465_1"
+    100272: "\uC6D0\uD615_1"
+    100274: "\uC6D0\uD615_1_2"
+    100276: "\uCEA1_1"
+    100278: "\uCEA1_1_2"
+    100280: "\uCEA1_1_3"
+    100282: "\uCEA1_2"
+    100284: "\uCEA1_2_2"
+    100286: "\uCEA1_2_3"
+    400000: Back_Pannel
+    400002: bar
+    400004: bar_0
+    400006: bar_0_2
+    400008: bar_1
+    400010: bar_1_2
+    400012: bar_2
+    400014: bar_2_2
+    400016: Body
+    400018: Bottom
+    400020: Bottom_2
+    400022: cylen
+    400024: cylen_2
+    400026: cylen_3
+    400028: cylen_4
+    400030: cylen_5
+    400032: cylender
+    400034: Dial
+    400036: Door
+    400038: Door_Hub
+    400040: Door_Hub_01
+    400042: Door_Hub_01_2
+    400044: Door_Hub_01_3
+    400046: Door_Hub_01_4
+    400048: Door_Hub_ins
+    400050: frec
+    400052: Gear
+    400054: Gear_01
+    400056: Gear_01_2
+    400058: Gear_2
+    400060: Gear_Base
+    400062: Gear_D_01
+    400064: Gear_D_01_2
+    400066: Gear_ins
+    400068: Gear_Part
+    400070: Gold_Bar
+    400072: Gold_Piece
+    400074: handle
+    400076: handle_0
+    400078: handle_1
+    400080: handle_2
+    400082: handle_3
+    400084: handle_4
+    400086: handle_5
+    400088: Handle_part
+    400090: Hub
+    400092: hub
+    400094: Hub_2
+    400096: hub_2
+    400098: Hub_3
+    400100: Hub_ins
+    400102: inner
+    400104: inner_handle
+    400106: inner_handle_0
+    400108: inner_handle_1
+    400110: inner_handle_2
+    400112: Lock
+    400114: Lock_2
+    400116: Lock_3
+    400118: Lock_Body
+    400120: Lock_Body_2
+    400122: Lock_Hub
+    400124: Lock_hub
+    400126: Lock_hub_0
+    400128: Lock_hub_1
+    400130: Lock_Hub_2
+    400132: Lock_hub_2
+    400134: Lock_Hub_3
+    400136: Main_Body
+    400138: MainBody
+    400140: MainBody_2
+    400142: minus
+    400144: minus_2
+    400146: Nut
+    400148: Nut_0
+    400150: Nut_1
+    400152: Nut_10
+    400154: Nut_11
+    400156: Nut_12
+    400158: Nut_13
+    400160: Nut_14
+    400162: Nut_15
+    400164: Nut_2
+    400166: Nut_3
+    400168: Nut_4
+    400170: Nut_5
+    400172: Nut_6
+    400174: Nut_7
+    400176: Nut_8
+    400178: Nut_9
+    400180: Nut_Clon
+    400182: Nut_guide
+    400184: Pasad
+    400186: rec_spl
+    400188: Rendom
+    400190: //RootNode
+    400192: Safe_Prop
+    400194: Safe_Prop_2
+    400196: Stone
+    400198: stone
+    400200: Stone_1
+    400202: Stone_10
+    400204: Stone_11
+    400206: Stone_12
+    400208: Stone_13
+    400210: Stone_14
+    400212: Stone_15
+    400214: Stone_16
+    400216: Stone_17
+    400218: Stone_18
+    400220: Stone_19
+    400222: Stone_2
+    400224: Stone_20
+    400226: Stone_21
+    400228: Stone_2_2
+    400230: Stone_3
+    400232: Stone_4
+    400234: Stone_5
+    400236: Stone_6
+    400238: Stone_7
+    400240: Stone_8
+    400242: Stone_9
+    400244: "stone_\uC778\uC2A4\uD134\uC2A4"
+    400246: "stone_\uC778\uC2A4\uD134\uC2A4_1"
+    400248: "stone_\uC778\uC2A4\uD134\uC2A4_2"
+    400250: "stone_\uC778\uC2A4\uD134\uC2A4_3"
+    400252: "stone_\uC778\uC2A4\uD134\uC2A4_4"
+    400254: "stone_\uC778\uC2A4\uD134\uC2A4_5"
+    400256: "stone_\uC778\uC2A4\uD134\uC2A4_6"
+    400258: "stone_\uC778\uC2A4\uD134\uC2A4_7"
+    400260: "stone_\uC778\uC2A4\uD134\uC2A4_8"
+    400262: Tube
+    400264: tube
+    400266: "\uB77C\uC6B4\uB529"
+    400268: "\uB77C\uC6B4\uB529_2"
+    400270: "\uC6D0\uAE30\uB465_1"
+    400272: "\uC6D0\uD615_1"
+    400274: "\uC6D0\uD615_1_2"
+    400276: "\uCEA1_1"
+    400278: "\uCEA1_1_2"
+    400280: "\uCEA1_1_3"
+    400282: "\uCEA1_2"
+    400284: "\uCEA1_2_2"
+    400286: "\uCEA1_2_3"
+    2300000: Back_Pannel
+    2300002: bar_0
+    2300004: bar_1
+    2300006: bar_2
+    2300008: Bottom_2
+    2300010: cylen
+    2300012: cylen_2
+    2300014: cylen_3
+    2300016: cylen_4
+    2300018: cylen_5
+    2300020: Door_Hub_01_2
+    2300022: Door_Hub_01_4
+    2300024: Gear_01
+    2300026: Gear_01_2
+    2300028: Gear_Base
+    2300030: Gear_D_01
+    2300032: Gear_D_01_2
+    2300034: handle_0
+    2300036: handle_1
+    2300038: handle_2
+    2300040: handle_3
+    2300042: handle_4
+    2300044: handle_5
+    2300046: Hub
+    2300048: Hub_2
+    2300050: Hub_3
+    2300052: inner_handle_0
+    2300054: inner_handle_1
+    2300056: inner_handle_2
+    2300058: Lock_3
+    2300060: Lock_Body_2
+    2300062: Lock_hub_0
+    2300064: Lock_hub_1
+    2300066: Lock_hub_2
+    2300068: Lock_Hub_3
+    2300070: MainBody
+    2300072: Nut_0
+    2300074: Nut_1
+    2300076: Nut_10
+    2300078: Nut_11
+    2300080: Nut_12
+    2300082: Nut_13
+    2300084: Nut_14
+    2300086: Nut_15
+    2300088: Nut_2
+    2300090: Nut_3
+    2300092: Nut_4
+    2300094: Nut_5
+    2300096: Nut_6
+    2300098: Nut_7
+    2300100: Nut_8
+    2300102: Nut_9
+    2300104: Pasad
+    2300106: Safe_Prop_2
+    2300108: Tube
+    2300110: tube
+    2300112: "\uB77C\uC6B4\uB529"
+    2300114: "\uB77C\uC6B4\uB529_2"
+    2300116: "\uC6D0\uAE30\uB465_1"
+    2300118: "\uCEA1_1"
+    2300120: "\uCEA1_1_2"
+    2300122: "\uCEA1_1_3"
+    2300124: "\uCEA1_2"
+    2300126: "\uCEA1_2_2"
+    2300128: "\uCEA1_2_3"
+    3300000: Back_Pannel
+    3300002: bar_0
+    3300004: bar_1
+    3300006: bar_2
+    3300008: Bottom_2
+    3300010: cylen
+    3300012: cylen_2
+    3300014: cylen_3
+    3300016: cylen_4
+    3300018: cylen_5
+    3300020: Door_Hub_01_2
+    3300022: Door_Hub_01_4
+    3300024: Gear_01
+    3300026: Gear_01_2
+    3300028: Gear_Base
+    3300030: Gear_D_01
+    3300032: Gear_D_01_2
+    3300034: handle_0
+    3300036: handle_1
+    3300038: handle_2
+    3300040: handle_3
+    3300042: handle_4
+    3300044: handle_5
+    3300046: Hub
+    3300048: Hub_2
+    3300050: Hub_3
+    3300052: inner_handle_0
+    3300054: inner_handle_1
+    3300056: inner_handle_2
+    3300058: Lock_3
+    3300060: Lock_Body_2
+    3300062: Lock_hub_0
+    3300064: Lock_hub_1
+    3300066: Lock_hub_2
+    3300068: Lock_Hub_3
+    3300070: MainBody
+    3300072: Nut_0
+    3300074: Nut_1
+    3300076: Nut_10
+    3300078: Nut_11
+    3300080: Nut_12
+    3300082: Nut_13
+    3300084: Nut_14
+    3300086: Nut_15
+    3300088: Nut_2
+    3300090: Nut_3
+    3300092: Nut_4
+    3300094: Nut_5
+    3300096: Nut_6
+    3300098: Nut_7
+    3300100: Nut_8
+    3300102: Nut_9
+    3300104: Pasad
+    3300106: Safe_Prop_2
+    3300108: Tube
+    3300110: tube
+    3300112: "\uB77C\uC6B4\uB529"
+    3300114: "\uB77C\uC6B4\uB529_2"
+    3300116: "\uC6D0\uAE30\uB465_1"
+    3300118: "\uCEA1_1"
+    3300120: "\uCEA1_1_2"
+    3300122: "\uCEA1_1_3"
+    3300124: "\uCEA1_2"
+    3300126: "\uCEA1_2_2"
+    3300128: "\uCEA1_2_3"
+    4300000: Hub
+    4300002: Door_Hub_01_2
+    4300004: Door_Hub_01_4
+    4300006: cylen
+    4300008: Gear_01
+    4300010: "\uCEA1_1"
+    4300012: "\uB77C\uC6B4\uB529"
+    4300014: "\uCEA1_2"
+    4300016: Gear_D_01
+    4300018: cylen_2
+    4300020: Gear_01_2
+    4300022: "\uCEA1_1_2"
+    4300024: "\uB77C\uC6B4\uB529_2"
+    4300026: "\uCEA1_2_2"
+    4300028: Gear_D_01_2
+    4300030: Gear_Base
+    4300032: "\uCEA1_1_3"
+    4300034: "\uCEA1_2_3"
+    4300036: tube
+    4300038: cylen_3
+    4300040: cylen_4
+    4300042: cylen_5
+    4300044: Tube
+    4300046: "\uC6D0\uAE30\uB465_1"
+    4300048: handle_0
+    4300050: handle_1
+    4300052: handle_2
+    4300054: handle_3
+    4300056: handle_4
+    4300058: handle_5
+    4300060: inner_handle_0
+    4300062: inner_handle_1
+    4300064: inner_handle_2
+    4300066: Pasad
+    4300068: Nut_0
+    4300070: Nut_1
+    4300072: Nut_2
+    4300074: Nut_3
+    4300076: Nut_4
+    4300078: Nut_5
+    4300080: Nut_6
+    4300082: Nut_7
+    4300084: Nut_8
+    4300086: Nut_9
+    4300088: Nut_10
+    4300090: Nut_11
+    4300092: Nut_12
+    4300094: Nut_13
+    4300096: Nut_14
+    4300098: Nut_15
+    4300100: Lock_hub_0
+    4300102: Lock_hub_1
+    4300104: Lock_hub_2
+    4300106: Back_Pannel
+    4300108: Lock_3
+    4300110: Lock_Body_2
+    4300112: Lock_Hub_3
+    4300114: Hub_2
+    4300116: Hub_3
+    4300118: MainBody
+    4300120: bar_0
+    4300122: bar_1
+    4300124: bar_2
+    4300126: Bottom_2
+    4300128: Safe_Prop_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Back_Pannel
+        weight: 1
+      - path: Body/Gold_Bar
+        weight: 1
+      - path: Body/Gold_Bar/frec
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_1
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_2
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_2_2
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_2_2/stone
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_2_2/stone/Gold_Piece
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_1"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_2"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_3"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_4"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_5"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_6"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_7"
+        weight: 1
+      - path: "Body/Gold_Bar/frec/Stone_2_2/stone_\uC778\uC2A4\uD134\uC2A4_8"
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_3
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_4
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_5
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_6
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_7
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_8
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_9
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_10
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_11
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_12
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_13
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_14
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_15
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_16
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_17
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_18
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_19
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_20
+        weight: 1
+      - path: Body/Gold_Bar/frec/Stone_21
+        weight: 1
+      - path: Body/Gold_Bar/Rendom
+        weight: 1
+      - path: Body/hub
+        weight: 1
+      - path: Body/hub/Hub_2
+        weight: 1
+      - path: Body/Hub_ins
+        weight: 1
+      - path: Body/Hub_ins/hub_2
+        weight: 1
+      - path: Body/Hub_ins/hub_2/Hub_3
+        weight: 1
+      - path: Body/Lock
+        weight: 1
+      - path: Body/Lock/Lock_2
+        weight: 1
+      - path: Body/Lock/Lock_2/Lock_3
+        weight: 1
+      - path: Body/Lock/Lock_2/Lock_Body
+        weight: 1
+      - path: Body/Lock/Lock_2/Lock_Body/Lock_Body_2
+        weight: 1
+      - path: Body/Lock_Hub_2
+        weight: 1
+      - path: Body/Lock_Hub_2/Lock_Hub_3
+        weight: 1
+      - path: Body/Main_Body
+        weight: 1
+      - path: Body/Main_Body/MainBody
+        weight: 1
+      - path: Body/Main_Body/MainBody_2
+        weight: 1
+      - path: Body/Main_Body/minus
+        weight: 1
+      - path: Body/Main_Body/minus/bar_0
+        weight: 1
+      - path: Body/Main_Body/minus/bar_1
+        weight: 1
+      - path: Body/Main_Body/minus/bar_2
+        weight: 1
+      - path: Body/Main_Body/minus_2
+        weight: 1
+      - path: Body/Main_Body/minus_2/bar
+        weight: 1
+      - path: Body/Main_Body/minus_2/bar_0_2
+        weight: 1
+      - path: Body/Main_Body/minus_2/bar_1_2
+        weight: 1
+      - path: Body/Main_Body/minus_2/bar_2_2
+        weight: 1
+      - path: Bottom
+        weight: 1
+      - path: Bottom/Bottom_2
+        weight: 1
+      - path: Door
+        weight: 1
+      - path: Door/Dial
+        weight: 1
+      - path: Door/Dial/cylen_3
+        weight: 1
+      - path: Door/Dial/cylen_4
+        weight: 1
+      - path: Door/Dial/tube
+        weight: 1
+      - path: Door/Door_Hub
+        weight: 1
+      - path: Door/Door_Hub/Door_Hub_01
+        weight: 1
+      - path: Door/Door_Hub/Door_Hub_01/Door_Hub_01_2
+        weight: 1
+      - path: Door/Door_Hub/Door_Hub_ins
+        weight: 1
+      - path: Door/Door_Hub/Door_Hub_ins/Door_Hub_01_3
+        weight: 1
+      - path: Door/Door_Hub/Door_Hub_ins/Door_Hub_01_3/Door_Hub_01_4
+        weight: 1
+      - path: Door/Gear_Part
+        weight: 1
+      - path: Door/Gear_Part/Gear
+        weight: 1
+      - path: Door/Gear_Part/Gear/cylen
+        weight: 1
+      - path: Door/Gear_Part/Gear/Gear_01
+        weight: 1
+      - path: "Door/Gear_Part/Gear/Gear_01/\uB77C\uC6B4\uB529"
+        weight: 1
+      - path: "Door/Gear_Part/Gear/Gear_01/\uB77C\uC6B4\uB529/\uCEA1_2"
+        weight: 1
+      - path: "Door/Gear_Part/Gear/Gear_01/\uC6D0\uD615_1"
+        weight: 1
+      - path: "Door/Gear_Part/Gear/Gear_01/\uCEA1_1"
+        weight: 1
+      - path: Door/Gear_Part/Gear/Gear_D_01
+        weight: 1
+      - path: Door/Gear_Part/Gear_Base
+        weight: 1
+      - path: Door/Gear_Part/Gear_Base/rec_spl
+        weight: 1
+      - path: "Door/Gear_Part/Gear_Base/\uCEA1_1_3"
+        weight: 1
+      - path: "Door/Gear_Part/Gear_Base/\uCEA1_2_3"
+        weight: 1
+      - path: Door/Gear_Part/Gear_ins
+        weight: 1
+      - path: Door/Gear_Part/Gear_ins/Gear_2
+        weight: 1
+      - path: Door/Gear_Part/Gear_ins/Gear_2/cylen_2
+        weight: 1
+      - path: Door/Gear_Part/Gear_ins/Gear_2/Gear_01_2
+        weight: 1
+      - path: "Door/Gear_Part/Gear_ins/Gear_2/Gear_01_2/\uB77C\uC6B4\uB529_2"
+        weight: 1
+      - path: "Door/Gear_Part/Gear_ins/Gear_2/Gear_01_2/\uB77C\uC6B4\uB529_2/\uCEA1_2_2"
+        weight: 1
+      - path: "Door/Gear_Part/Gear_ins/Gear_2/Gear_01_2/\uC6D0\uD615_1_2"
+        weight: 1
+      - path: "Door/Gear_Part/Gear_ins/Gear_2/Gear_01_2/\uCEA1_1_2"
+        weight: 1
+      - path: Door/Gear_Part/Gear_ins/Gear_2/Gear_D_01_2
+        weight: 1
+      - path: Door/Handle_part
+        weight: 1
+      - path: Door/Handle_part/cylen_5
+        weight: 1
+      - path: Door/Handle_part/Tube
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_0"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_1"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_2"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_3"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_4"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/cylender/handle_5"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/inner"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/inner/inner_handle"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/inner/inner_handle_0"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/inner/inner_handle_1"
+        weight: 1
+      - path: "Door/Handle_part/\uC6D0\uAE30\uB465_1/inner/inner_handle_2"
+        weight: 1
+      - path: Door/Hub
+        weight: 1
+      - path: Door/Lock_Hub
+        weight: 1
+      - path: Door/Lock_Hub/Lock_hub
+        weight: 1
+      - path: Door/Lock_Hub/Lock_hub_0
+        weight: 1
+      - path: Door/Lock_Hub/Lock_hub_1
+        weight: 1
+      - path: Door/Lock_Hub/Lock_hub_2
+        weight: 1
+      - path: Door/Pasad
+        weight: 1
+      - path: Door/Pasad/Nut_Clon
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_0
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_1
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_2
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_3
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_4
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_5
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_6
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_7
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_8
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_9
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_10
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_11
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_12
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_13
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_14
+        weight: 1
+      - path: Door/Pasad/Nut_Clon/Nut_15
+        weight: 1
+      - path: Door/Pasad/Nut_guide
+        weight: 1
+      - path: Safe_Prop
+        weight: 1
+      - path: Safe_Prop/Safe_Prop_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

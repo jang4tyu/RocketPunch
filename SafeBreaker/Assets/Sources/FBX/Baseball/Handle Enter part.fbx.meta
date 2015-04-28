@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: f2326f7b8bf4cfd4ba51037eb429512d
+timeCreated: 1428036456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cylen
+    100002: cylender
+    100004: handle
+    100006: //RootNode
+    100008: handle_0
+    100010: handle_1
+    100012: handle_2
+    100014: handle_2_2
+    100016: handle_3
+    100018: handle_4
+    100020: handle_5
+    100022: Handle_part
+    100024: inner
+    100026: inner_handle
+    100028: inner_handle_0
+    100030: inner_handle_1
+    100032: inner_handle_2
+    100034: panel
+    100036: Tube
+    100038: "\uAD6C"
+    100040: "\uAD6C_0"
+    100042: "\uAD6C_1"
+    100044: "\uAD6C_2"
+    100046: "\uAD6C_3"
+    100048: "\uD074\uB85C\uB108"
+    100050: Handle
+    400000: cylen
+    400002: cylender
+    400004: handle
+    400006: //RootNode
+    400008: handle_0
+    400010: handle_1
+    400012: handle_2
+    400014: handle_2_2
+    400016: handle_3
+    400018: handle_4
+    400020: handle_5
+    400022: Handle_part
+    400024: inner
+    400026: inner_handle
+    400028: inner_handle_0
+    400030: inner_handle_1
+    400032: inner_handle_2
+    400034: panel
+    400036: Tube
+    400038: "\uAD6C"
+    400040: "\uAD6C_0"
+    400042: "\uAD6C_1"
+    400044: "\uAD6C_2"
+    400046: "\uAD6C_3"
+    400048: "\uD074\uB85C\uB108"
+    400050: Handle
+    2300000: cylen
+    2300002: handle
+    2300004: handle_0
+    2300006: handle_1
+    2300008: handle_2
+    2300010: handle_3
+    2300012: handle_4
+    2300014: handle_5
+    2300016: inner_handle_0
+    2300018: inner_handle_1
+    2300020: inner_handle_2
+    2300022: panel
+    2300024: Tube
+    2300026: "\uAD6C_0"
+    2300028: "\uAD6C_1"
+    2300030: "\uAD6C_2"
+    2300032: "\uAD6C_3"
+    3300000: cylen
+    3300002: handle
+    3300004: handle_0
+    3300006: handle_1
+    3300008: handle_2
+    3300010: handle_3
+    3300012: handle_4
+    3300014: handle_5
+    3300016: inner_handle_0
+    3300018: inner_handle_1
+    3300020: inner_handle_2
+    3300022: panel
+    3300024: Tube
+    3300026: "\uAD6C_0"
+    3300028: "\uAD6C_1"
+    3300030: "\uAD6C_2"
+    3300032: "\uAD6C_3"
+    4300000: panel
+    4300002: "\uAD6C_0"
+    4300004: "\uAD6C_1"
+    4300006: "\uAD6C_2"
+    4300008: "\uAD6C_3"
+    4300010: cylen
+    4300012: Tube
+    4300014: handle
+    4300016: handle_0
+    4300018: handle_1
+    4300020: handle_2
+    4300022: handle_3
+    4300024: handle_4
+    4300026: handle_5
+    4300028: inner_handle_0
+    4300030: inner_handle_1
+    4300032: inner_handle_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Handle
+        weight: 1
+      - path: Handle/cylen
+        weight: 1
+      - path: Handle/handle
+        weight: 1
+      - path: Handle/handle/cylender
+        weight: 1
+      - path: Handle/handle/cylender/handle_0
+        weight: 1
+      - path: Handle/handle/cylender/handle_1
+        weight: 1
+      - path: Handle/handle/cylender/handle_2
+        weight: 1
+      - path: Handle/handle/cylender/handle_2_2
+        weight: 1
+      - path: Handle/handle/cylender/handle_3
+        weight: 1
+      - path: Handle/handle/cylender/handle_4
+        weight: 1
+      - path: Handle/handle/cylender/handle_5
+        weight: 1
+      - path: Handle/handle/inner
+        weight: 1
+      - path: Handle/handle/inner/inner_handle
+        weight: 1
+      - path: Handle/handle/inner/inner_handle_0
+        weight: 1
+      - path: Handle/handle/inner/inner_handle_1
+        weight: 1
+      - path: Handle/handle/inner/inner_handle_2
+        weight: 1
+      - path: Handle/Tube
+        weight: 1
+      - path: panel
+        weight: 1
+      - path: "\uD074\uB85C\uB108"
+        weight: 1
+      - path: "\uD074\uB85C\uB108/\uAD6C"
+        weight: 1
+      - path: "\uD074\uB85C\uB108/\uAD6C_0"
+        weight: 1
+      - path: "\uD074\uB85C\uB108/\uAD6C_1"
+        weight: 1
+      - path: "\uD074\uB85C\uB108/\uAD6C_2"
+        weight: 1
+      - path: "\uD074\uB85C\uB108/\uAD6C_3"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
